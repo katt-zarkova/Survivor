@@ -17,3 +17,4 @@ int main()
 	_getch();
 	return 0;
 }
+//start of the game ver. 1.0
